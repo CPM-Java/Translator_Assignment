@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=str\ spaces
+comment0.target=Translator(java.lang.String,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Translator\n\ \ \ \ \ \n\ @param\ \ str\ \ \ the\ new\ 'syllable'\ involved\ inserted\ in\ translation\n\ @param\ \ y\ \ \ an\ integer\ representing\ the\ characters\ between\ new\ syllables\n
+comment1.params=str
+comment1.target=java.lang.String\ translate(java.lang.String)
+comment1.text=\n\ Translates\ String\ parameter\n\ \n\ @param\ \ str\ \ \ the\ word\ to\ be\ translated\ as\ a\ String\n\ @return\ \ \ \ \ the\ translated\ word\ as\ a\ String\ \ \n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ toString\n\ \n\ @return\ \ \ \ \ the\ values\ of\ the\ instance\ variables\n
+numComments=3
